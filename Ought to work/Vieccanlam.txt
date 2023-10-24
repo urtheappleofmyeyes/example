@@ -1,0 +1,18 @@
+Các môn học đồ án và các việc cần làm: 
+- Lập trình mạng
+	+ Bài tập trên lớp, bài tập file word( làm từ đầu)
+	+ Ôn lại kiến thức lấy gốc( thi giữa kì)
+- Lập trình web
+	+ Bài tập ( lab)
+	+ Project:
+		* Đăng ký đề tài: Đặt tên(0), nộp(0). 
+		* tìm
+		* thêm các chức năng thiếu( thanh 
+		* bớt các chức năng thừa và các trang web tĩnh thừa
+		* clone 
+		* cấu trúc project( sắp xếp lại các file hợp lí các tệp, thư viện, ở các mục tương ứng)
+- CSDL
+
+- AI
+
+- LSD
