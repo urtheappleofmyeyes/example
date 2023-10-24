@@ -11,7 +11,7 @@ Các môn học đồ án và các việc cần làm:
 		* bớt các chức năng thừa và các trang web tĩnh thừa
 		* clone 
 		* cấu trúc project( sắp xếp lại các file hợp lí các tệp, thư viện, ở các mục tương ứng)
-- CSDL
+- CSDL : Deadline bài tập
 
 - AI
 
