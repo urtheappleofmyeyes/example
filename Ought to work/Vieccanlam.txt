@@ -11,8 +11,14 @@ Các môn học đồ án và các việc cần làm:
 		* bớt các chức năng thừa và các trang web tĩnh thừa
 		* clone 
 		* cấu trúc project( sắp xếp lại các file hợp lí các tệp, thư viện, ở các mục tương ứng)
-- CSDL : Deadline bài tập về nhà 
+- CSDL : + Deadline bài tập về nhà ( 6/11)
+	+ xem lại kiến thức 
+	+ Đợi phân công để làm project
+	
 
-- AI
-
-- LSD
+- AI : + Làm bài toán n hậu
+	+ Lên idea cho project game đối kháng
+	+ Tìm Project mates ( nhóm 2 người ) 
+	+ Thực hiện project
+	+ ....
+- LSD : ....
